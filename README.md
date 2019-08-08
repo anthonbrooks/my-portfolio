@@ -6,4 +6,3 @@ My professional portfolio. Created with AWS and ReactJS.
 
 Git
 Github
-SSH
