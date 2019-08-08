@@ -1,2 +1,3 @@
-# my-portfolio
-My professional portfolio
+# Anthony Prescott-Brooks' Portfolio
+
+My professional portfolio. Created with AWS and ReactJS.
